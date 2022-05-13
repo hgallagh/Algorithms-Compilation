@@ -1,3 +1,4 @@
+#source https://towardsdatascience.com/building-simulations-in-python-a-complete-walkthrough-3965b2d3ede0
 totalPopulation = 50 
 growthFactor = 1.00005
 dayCount = 0 #Every 2 months the population is reported
